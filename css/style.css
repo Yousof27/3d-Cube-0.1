@@ -80,6 +80,10 @@ body {
     transform: translateZ(250px);
 }
 
+.face.start {
+    background-image: url(../imgs/5.jpg);
+}
+
 .face6 {
     /* background-color: orange; */
     background-image: url(../imgs/6.jpg);
